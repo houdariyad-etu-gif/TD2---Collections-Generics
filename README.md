@@ -4,8 +4,8 @@ This repository contains all TD2 Java exercises.
 Each exercise includes a **problem description**, **solution explanation**, and **example output / screenshots**.
 
 ---
-
-## Exercise 1 – Product List Management
+## I. Collections & Streams
+### Exercise 1 – Product List Management
 **Problem:**  
 Create a `Product` class and manage a list of products. Allow adding, deleting by index, modifying, displaying, and searching products by name.
 
@@ -60,7 +60,8 @@ Manage two student groups using `HashSet` and display their union and intersecti
 
 ---
 
-## Exercise 4 – Generic Storage Class
+##  II. Generics
+### 1 Generic Storage Class
 **Problem:**  
 Create a reusable generic class `GenericStorage<T>` to store elements of any type. Perform add, remove, get, and size operations.
 
@@ -78,7 +79,7 @@ Create a reusable generic class `GenericStorage<T>` to store elements of any typ
 
 ---
 
-## Exercise 5 – Product Management with Generics
+### 2 – Product Management with Generics
 **Problem:**  
 Use generics to manage a list of `Product` objects. Support add, delete, find by ID, and display all products via a menu-driven program.
 
