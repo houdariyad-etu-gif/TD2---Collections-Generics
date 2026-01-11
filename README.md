@@ -97,9 +97,10 @@ Use generics to manage a list of `Product` objects. Support add, delete, find by
 **Execution screenshot:**  
 ![Exercise 5](screenshots/ex_5_product_menu.jpg)
 ![Exercise 1](screenshots/display_products.jpg)
+![Exercise 1](screenshots/search_for_product_by_id.jpg)
 ![Exercise 1](screenshots/add_product.jpg)
 ![Exercise 1](screenshots/delete_product.jpg)
-
+![Exercise 1](screenshots/exit.jpg)
 
 ---
 
