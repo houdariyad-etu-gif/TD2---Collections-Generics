@@ -21,6 +21,10 @@ Create a `Product` class and manage a list of products. Allow adding, deleting b
 
 **Execution screenshot:**  
 ![Exercise 1](screenshots/ex_1_products.jpg)
+![Exercise 1](screenshots/add_product.jpg)
+![Exercise 1](screenshots/delete_product.jpg)
+![Exercise 1](screenshots/display_products.jpg)
+![Exercise 1](screenshots/search_product_byIndex_byName.jpg)
 
 ---
 
