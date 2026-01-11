@@ -1,7 +1,7 @@
 # TD2 Java – OOP, Collections & Generics
 
 This repository contains all TD2 Java exercises.  
-Each exercise includes a **problem description**, **solution explanation**, and **example output / screenshot placeholders**.
+Each exercise includes a **problem description**, **solution explanation**, and **example output / screenshots **.
 
 ---
 
